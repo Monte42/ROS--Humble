@@ -1,0 +1,27 @@
+[1.200s] Invoking command in '/home/gary/first_ws/build/my_py_pkg': PYTHONPATH=/home/gary/first_ws/build/my_py_pkg/prefix_override:/home/gary/first_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/gary/first_ws/build/my_py_pkg/build --no-deps install_data
+[1.502s] running develop
+[1.671s] running egg_info
+[1.672s] writing my_py_pkg.egg-info/PKG-INFO
+[1.672s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[1.672s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[1.672s] writing requirements to my_py_pkg.egg-info/requires.txt
+[1.673s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[1.675s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.676s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.678s] running build_ext
+[1.678s] Creating /home/gary/first_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[1.679s] Installing add_two_ints_client script to /home/gary/first_ws/install/my_py_pkg/lib/my_py_pkg
+[1.680s] Installing add_two_ints_client_oop script to /home/gary/first_ws/install/my_py_pkg/lib/my_py_pkg
+[1.680s] Installing add_two_ints_server script to /home/gary/first_ws/install/my_py_pkg/lib/my_py_pkg
+[1.680s] Installing battery_node script to /home/gary/first_ws/install/my_py_pkg/lib/my_py_pkg
+[1.681s] Installing count_catch script to /home/gary/first_ws/install/my_py_pkg/lib/my_py_pkg
+[1.681s] Installing hw_status_publisher script to /home/gary/first_ws/install/my_py_pkg/lib/my_py_pkg
+[1.681s] Installing led_panel_node script to /home/gary/first_ws/install/my_py_pkg/lib/my_py_pkg
+[1.681s] Installing my_counter script to /home/gary/first_ws/install/my_py_pkg/lib/my_py_pkg
+[1.681s] Installing py_node script to /home/gary/first_ws/install/my_py_pkg/lib/my_py_pkg
+[1.682s] Installing robot_new_staton script to /home/gary/first_ws/install/my_py_pkg/lib/my_py_pkg
+[1.682s] Installing smartphone script to /home/gary/first_ws/install/my_py_pkg/lib/my_py_pkg
+[1.682s] 
+[1.682s] Installed /home/gary/first_ws/build/my_py_pkg
+[1.682s] running install_data
+[1.712s] Invoked command in '/home/gary/first_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/gary/first_ws/build/my_py_pkg/prefix_override:/home/gary/first_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/gary/first_ws/build/my_py_pkg/build --no-deps install_data

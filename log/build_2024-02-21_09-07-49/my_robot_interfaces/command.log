@@ -1,0 +1,2 @@
+Invoking command in '/home/gary/first_ws/build/my_robot_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gary/first_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/gary/first_ws/build/my_robot_interfaces -- -j8 -l8
+Invoked command in '/home/gary/first_ws/build/my_robot_interfaces' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gary/first_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/gary/first_ws/build/my_robot_interfaces -- -j8 -l8

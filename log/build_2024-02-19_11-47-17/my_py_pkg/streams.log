@@ -1,0 +1,21 @@
+[0.915s] Invoking command in '/home/gary/first_ws/build/my_py_pkg': PYTHONPATH=/home/gary/first_ws/build/my_py_pkg/prefix_override:/home/gary/first_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/gary/first_ws/build/my_py_pkg/build --no-deps install_data
+[1.238s] running develop
+[1.412s] running egg_info
+[1.413s] writing my_py_pkg.egg-info/PKG-INFO
+[1.413s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[1.413s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[1.414s] writing requirements to my_py_pkg.egg-info/requires.txt
+[1.414s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[1.418s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.419s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.421s] running build_ext
+[1.422s] Creating /home/gary/first_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[1.424s] Installing count_catch script to /home/gary/first_ws/install/my_py_pkg/lib/my_py_pkg
+[1.424s] Installing my_counter script to /home/gary/first_ws/install/my_py_pkg/lib/my_py_pkg
+[1.425s] Installing py_node script to /home/gary/first_ws/install/my_py_pkg/lib/my_py_pkg
+[1.425s] Installing robot_new_staton script to /home/gary/first_ws/install/my_py_pkg/lib/my_py_pkg
+[1.425s] Installing smartphone script to /home/gary/first_ws/install/my_py_pkg/lib/my_py_pkg
+[1.426s] 
+[1.426s] Installed /home/gary/first_ws/build/my_py_pkg
+[1.426s] running install_data
+[1.463s] Invoked command in '/home/gary/first_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/gary/first_ws/build/my_py_pkg/prefix_override:/home/gary/first_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/gary/first_ws/build/my_py_pkg/build --no-deps install_data
