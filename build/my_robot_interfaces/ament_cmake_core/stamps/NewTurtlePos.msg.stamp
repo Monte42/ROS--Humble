@@ -1,0 +1,4 @@
+string turtle_name
+float64 turtle_x
+float64 turtle_y
+float64 turtle_theta

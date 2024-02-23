@@ -1,0 +1,1 @@
+/home/gary/first_ws/build/my_robot_interfaces/rosidl_generator_c/my_robot_interfaces/srv/detail/kill_turtle__type_support.h

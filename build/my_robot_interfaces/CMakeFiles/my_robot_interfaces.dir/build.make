@@ -68,12 +68,16 @@ include CMakeFiles/my_robot_interfaces.dir/progress.make
 
 CMakeFiles/my_robot_interfaces: /home/gary/first_ws/src/my_robot_interfaces/msg/HardwareStatus.msg
 CMakeFiles/my_robot_interfaces: /home/gary/first_ws/src/my_robot_interfaces/msg/LedPanelStatus.msg
+CMakeFiles/my_robot_interfaces: /home/gary/first_ws/src/my_robot_interfaces/msg/NewTurtlePos.msg
 CMakeFiles/my_robot_interfaces: /home/gary/first_ws/src/my_robot_interfaces/srv/ComputeRectangleArea.srv
 CMakeFiles/my_robot_interfaces: rosidl_cmake/srv/ComputeRectangleArea_Request.msg
 CMakeFiles/my_robot_interfaces: rosidl_cmake/srv/ComputeRectangleArea_Response.msg
 CMakeFiles/my_robot_interfaces: /home/gary/first_ws/src/my_robot_interfaces/srv/SetLED.srv
 CMakeFiles/my_robot_interfaces: rosidl_cmake/srv/SetLED_Request.msg
 CMakeFiles/my_robot_interfaces: rosidl_cmake/srv/SetLED_Response.msg
+CMakeFiles/my_robot_interfaces: /home/gary/first_ws/src/my_robot_interfaces/srv/KillTurtle.srv
+CMakeFiles/my_robot_interfaces: rosidl_cmake/srv/KillTurtle_Request.msg
+CMakeFiles/my_robot_interfaces: rosidl_cmake/srv/KillTurtle_Response.msg
 
 my_robot_interfaces: CMakeFiles/my_robot_interfaces
 my_robot_interfaces: CMakeFiles/my_robot_interfaces.dir/build.make

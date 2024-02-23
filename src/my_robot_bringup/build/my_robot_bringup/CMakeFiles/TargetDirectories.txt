@@ -1,9 +1,0 @@
-/home/gary/first_ws/src/my_robot_bringup/build/my_robot_bringup/CMakeFiles/uninstall.dir
-/home/gary/first_ws/src/my_robot_bringup/build/my_robot_bringup/CMakeFiles/my_robot_bringup_uninstall.dir
-/home/gary/first_ws/src/my_robot_bringup/build/my_robot_bringup/CMakeFiles/test.dir
-/home/gary/first_ws/src/my_robot_bringup/build/my_robot_bringup/CMakeFiles/edit_cache.dir
-/home/gary/first_ws/src/my_robot_bringup/build/my_robot_bringup/CMakeFiles/rebuild_cache.dir
-/home/gary/first_ws/src/my_robot_bringup/build/my_robot_bringup/CMakeFiles/list_install_components.dir
-/home/gary/first_ws/src/my_robot_bringup/build/my_robot_bringup/CMakeFiles/install.dir
-/home/gary/first_ws/src/my_robot_bringup/build/my_robot_bringup/CMakeFiles/install/local.dir
-/home/gary/first_ws/src/my_robot_bringup/build/my_robot_bringup/CMakeFiles/install/strip.dir

@@ -1,0 +1,23 @@
+[0.821s] Invoking command in '/home/gary/first_ws/build/turtlesim_catch_them_all': PYTHONPATH=/home/gary/first_ws/build/turtlesim_catch_them_all/prefix_override:/home/gary/first_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/gary/first_ws/build/turtlesim_catch_them_all/build --no-deps install_data
+[1.144s] running develop
+[1.313s] running egg_info
+[1.313s] creating turtlesim_catch_them_all.egg-info
+[1.313s] writing turtlesim_catch_them_all.egg-info/PKG-INFO
+[1.314s] writing dependency_links to turtlesim_catch_them_all.egg-info/dependency_links.txt
+[1.314s] writing entry points to turtlesim_catch_them_all.egg-info/entry_points.txt
+[1.315s] writing requirements to turtlesim_catch_them_all.egg-info/requires.txt
+[1.315s] writing top-level names to turtlesim_catch_them_all.egg-info/top_level.txt
+[1.315s] writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[1.317s] reading manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[1.317s] writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[1.320s] running build_ext
+[1.320s] Creating /home/gary/first_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim-catch-them-all.egg-link (link to .)
+[1.322s] 
+[1.322s] Installed /home/gary/first_ws/build/turtlesim_catch_them_all
+[1.322s] running install_data
+[1.322s] creating /home/gary/first_ws/install/turtlesim_catch_them_all/share/ament_index
+[1.323s] creating /home/gary/first_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index
+[1.323s] creating /home/gary/first_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[1.323s] copying resource/turtlesim_catch_them_all -> /home/gary/first_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[1.323s] copying package.xml -> /home/gary/first_ws/install/turtlesim_catch_them_all/share/turtlesim_catch_them_all
+[1.356s] Invoked command in '/home/gary/first_ws/build/turtlesim_catch_them_all' returned '0': PYTHONPATH=/home/gary/first_ws/build/turtlesim_catch_them_all/prefix_override:/home/gary/first_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/gary/first_ws/build/turtlesim_catch_them_all/build --no-deps install_data

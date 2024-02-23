@@ -1,0 +1,1 @@
+/home/gary/first_ws/build/my_robot_interfaces/rosidl_generator_py/my_robot_interfaces/msg/_new_turtle_pos_s.c

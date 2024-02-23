@@ -5,8 +5,10 @@
   "idl_tuples": [
     "/home/gary/first_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/HardwareStatus.idl",
     "/home/gary/first_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/LedPanelStatus.idl",
+    "/home/gary/first_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/NewTurtlePos.idl",
     "/home/gary/first_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/ComputeRectangleArea.idl",
-    "/home/gary/first_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/SetLED.idl"
+    "/home/gary/first_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/SetLED.idl",
+    "/home/gary/first_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/KillTurtle.idl"
   ],
   "target_dependencies": [
     "/opt/ros/humble/share/rosidl_generator_cpp/cmake/../../../lib/rosidl_generator_cpp/rosidl_generator_cpp",
@@ -26,7 +28,9 @@
     "/opt/ros/humble/share/rosidl_generator_cpp/cmake/../resource/srv__traits.hpp.em",
     "/home/gary/first_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/msg/HardwareStatus.idl",
     "/home/gary/first_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/msg/LedPanelStatus.idl",
+    "/home/gary/first_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/msg/NewTurtlePos.idl",
     "/home/gary/first_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/srv/ComputeRectangleArea.idl",
-    "/home/gary/first_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/srv/SetLED.idl"
+    "/home/gary/first_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/srv/SetLED.idl",
+    "/home/gary/first_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/srv/KillTurtle.idl"
   ]
 }

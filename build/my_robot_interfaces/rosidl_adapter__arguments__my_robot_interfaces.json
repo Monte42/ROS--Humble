@@ -3,7 +3,9 @@
   "non_idl_tuples": [
     "/home/gary/first_ws/src/my_robot_interfaces:msg/HardwareStatus.msg",
     "/home/gary/first_ws/src/my_robot_interfaces:msg/LedPanelStatus.msg",
+    "/home/gary/first_ws/src/my_robot_interfaces:msg/NewTurtlePos.msg",
     "/home/gary/first_ws/src/my_robot_interfaces:srv/ComputeRectangleArea.srv",
-    "/home/gary/first_ws/src/my_robot_interfaces:srv/SetLED.srv"
+    "/home/gary/first_ws/src/my_robot_interfaces:srv/SetLED.srv",
+    "/home/gary/first_ws/src/my_robot_interfaces:srv/KillTurtle.srv"
   ]
 }

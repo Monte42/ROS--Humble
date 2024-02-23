@@ -13,8 +13,10 @@ find_package(rosidl_default_generators REQUIRED) # <-- Added // Removed Test
 rosidl_generate_interfaces(${PROJECT_NAME} # <-- added all this as well
   "msg/HardwareStatus.msg" # <-- add new msgs/srvs here
   "msg/LedPanelStatus.msg" 
+  "msg/NewTurtlePos.msg" 
   "srv/ComputeRectangleArea.srv" 
   "srv/SetLED.srv" 
+  "srv/KillTurtle.srv" 
 )
 
 

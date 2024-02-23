@@ -1,0 +1,28 @@
+[1.208s] Invoking command in '/home/gary/first_ws/src/turtlesim_catch_them_all': CMAKE_PREFIX_PATH=/home/gary/first_ws/install/my_robot_interfaces:/home/gary/first_ws/install/my_robot_bringup PYTHONPATH=/home/gary/first_ws/build/turtlesim_catch_them_all/prefix_override:/home/gary/first_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_catch_them_all build --build-base /home/gary/first_ws/build/turtlesim_catch_them_all/build install --record /home/gary/first_ws/build/turtlesim_catch_them_all/install.log --single-version-externally-managed
+[1.516s] running egg_info
+[1.518s] writing ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/PKG-INFO
+[1.518s] writing dependency_links to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/dependency_links.txt
+[1.518s] writing entry points to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/entry_points.txt
+[1.519s] writing requirements to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/requires.txt
+[1.519s] writing top-level names to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/top_level.txt
+[1.522s] reading manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[1.523s] writing manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[1.523s] running build
+[1.523s] running build_py
+[1.523s] copying turtlesim_catch_them_all/turtle_controller_node.py -> /home/gary/first_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[1.524s] copying turtlesim_catch_them_all/turtle_spawner_node.py -> /home/gary/first_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[1.524s] running install
+[1.524s] running install_lib
+[1.525s] copying /home/gary/first_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/turtle_controller_node.py -> /home/gary/first_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+[1.525s] copying /home/gary/first_ws/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/turtle_spawner_node.py -> /home/gary/first_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+[1.526s] byte-compiling /home/gary/first_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all/turtle_controller_node.py to turtle_controller_node.cpython-310.pyc
+[1.527s] byte-compiling /home/gary/first_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all/turtle_spawner_node.py to turtle_spawner_node.cpython-310.pyc
+[1.527s] running install_data
+[1.528s] running install_egg_info
+[1.530s] removing '/home/gary/first_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all-0.0.0-py3.10.egg-info' (and everything under it)
+[1.530s] Copying ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info to /home/gary/first_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all-0.0.0-py3.10.egg-info
+[1.531s] running install_scripts
+[1.555s] Installing turtle_controller script to /home/gary/first_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[1.555s] Installing turtle_spawner script to /home/gary/first_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[1.556s] writing list of installed files to '/home/gary/first_ws/build/turtlesim_catch_them_all/install.log'
+[1.586s] Invoked command in '/home/gary/first_ws/src/turtlesim_catch_them_all' returned '0': CMAKE_PREFIX_PATH=/home/gary/first_ws/install/my_robot_interfaces:/home/gary/first_ws/install/my_robot_bringup PYTHONPATH=/home/gary/first_ws/build/turtlesim_catch_them_all/prefix_override:/home/gary/first_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_catch_them_all build --build-base /home/gary/first_ws/build/turtlesim_catch_them_all/build install --record /home/gary/first_ws/build/turtlesim_catch_them_all/install.log --single-version-externally-managed
